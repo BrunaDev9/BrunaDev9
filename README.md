@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Bruna Veras Front-end 😁
+## Bem-vindo(a) ao perfil Bruna Veras Estudante Front-end 😁
 
  <div>
    <a href="https://github.com/BrunaDev9">
