@@ -8,7 +8,7 @@ Estudante de Ciência da Computação | Desenvolvedora Full-stack em formação 
 
 **[Agente Titan (IA)]()**
 > Agente de Inteligência Artificial conversacional Full-stack. Desenvolvido com foco em processamento de linguagem e integração entre back-end e front-end.
-> **Techs:** Python, Flask, React, Flask-CORS.
+> **Techs:** Python, Flask, Flask-CORS.
 
 **[Análise de Músicas com Python]()**
 > Projeto de Data Science focado no mercado musical. Extração, limpeza e visualização de dados para insights estratégicos.
