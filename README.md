@@ -6,11 +6,11 @@ Estudante de Ciência da Computação | Desenvolvedora Full-stack em formação 
 
 ### 🤖 Projetos em Destaque
 
-**[Agente Titan (IA)]()**
+**[Agente Titan (IA)](https://github.com/BrunaDev9/agente-titan)**
 > Agente de Inteligência Artificial conversacional Full-stack. Desenvolvido com foco em processamento de linguagem e integração entre back-end e front-end.
 > **Techs:** Python, Flask, Flask-CORS.
 
-**[Análise de Músicas com Python]()**
+**[Análise de Músicas com Python](https://github.com/BrunaDev9/analise-musicas)**
 > Projeto de Data Science focado no mercado musical. Extração, limpeza e visualização de dados para insights estratégicos.
 > **Techs:** Python, Pandas, Plotly, Streamlit.
 
