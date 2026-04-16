@@ -35,15 +35,26 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 * **Visualização:** Power BI (Foco atual em DAX e Modelagem).
 * **Bancos de Dados:** Noções de MySQL e PostgreSQL.
 * **Ferramentas de Suporte:** Excel (Básico/Em evolução), Git, GitHub.
-* **Web Basics:** HTML, CSS, TailwindCSS (conhecimentos complementares).
+* **Complementares:** HTML, CSS, TailwindCSS.
 
 ---
 
-### 📈 Estatísticas
+### 📈 Minha Evolução & Skills
 
-| | |
-|---|---|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&langs_count=6" /> |
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula" />
+</p>
+
+#### **Nível de Domínio (Foco atual)**
+**Python / Pandas**
+![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
+**SQL**
+![Progress](https://geps.dev/progress/60?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
+**Power BI / DAX**
+![Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 
 ---
 
