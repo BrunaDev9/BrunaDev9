@@ -32,19 +32,11 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 
 ---
 
-### 🛠️ Outras Ferramentas & Em Aprendizado
-* **Visualização:** Power BI (Foco atual em DAX e Modelagem).
-* **Bancos de Dados:** Noções de MySQL e PostgreSQL.
-* **Ferramentas de Suporte:** Excel (Básico/Em evolução), Git, GitHub.
-* **Complementares:** HTML, CSS, TailwindCSS.
-
----
-
 ### 📈 Minha Evolução & Skills
 
 <p align="left">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula&locale=pt_BR" />username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile&locale=pt-br" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula&locale=pt_BR" />
 </p>
 
 #### **Nível de Domínio (Foco atual)**
@@ -56,7 +48,6 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 
 **Power BI / DAX**
 ![Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-
 ---
 
 ### 📫 Vamos conversar?
