@@ -43,7 +43,7 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 ### 📈 Minha Evolução & Skills
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula&locale=pt_BR" />username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula" />
 </p>
 
