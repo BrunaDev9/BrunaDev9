@@ -20,15 +20,15 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 
 **📌 [Análise de Performance Educacional (SAEB)](https://github.com/BrunaDev9/Analise-Performance-Educacional)**
 > Análise de dados educacionais brasileiros explorando correlações socioeconômicas e infraestrutura. Um projeto que reflete meu processo de aprendizado em limpeza e exploração de dados (EDA).
-> **Techs:** Python, Pandas, Matplotlib, Seaborn.
+> **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
 
 **📌 [Análise de Músicas com Python](https://github.com/BrunaDev9/analise-musicas)**
 > Extração e visualização de dados para insights no mercado musical, utilizando bibliotecas interativas.
-> **Techs:** Python, Pandas, Plotly, Streamlit.
+> **Tecnologias:** Python, Pandas, Plotly, Streamlit.
 
 **📌 [Agente Titan (IA)](https://github.com/BrunaDev9/agente-titan)**
 > Interface conversacional que demonstra minhas bases em lógica de programação e integração de APIs.
-> **Techs:** Flask, Python.
+> **Tecnologias:** Flask, Python.
 
 ---
 
@@ -40,6 +40,7 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 </p>
 
 #### **Nível de Domínio (Foco atual)**
+
 **Python / Pandas**
 ![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 
@@ -48,6 +49,7 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 
 **Power BI / DAX**
 ![Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
 ---
 
 ### 📫 Vamos conversar?
