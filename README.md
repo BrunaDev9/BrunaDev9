@@ -40,10 +40,10 @@ Entusiasta da cultura orientada a dados, focada em transformar bases brutas em v
 ---
 
 ### 📈 Estatísticas
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&langs_count=6" />
-</p>
+
+| | |
+|---|---|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&langs_count=6" /> |
 
 ---
 
