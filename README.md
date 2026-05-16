@@ -1,57 +1,54 @@
 # Olá, eu sou a Bruna Veras! 👋
-### Analista de Dados em Formação | Python, SQL & Power BI
 
-Entusiasta da cultura orientada a dados, focada em transformar bases brutas em visualizações estratégicas e automações eficientes. Atualmente aprofundando conhecimentos em Business Intelligence.
+### Analista de Dados & Engenharia de Infraestrutura para Dados | Python, SQL & Docker
+
+Entusiasta da cultura orientada a dados, focada em transformar volumes massivos de dados brutos em visualizações estratégicas, arquiteturas escaláveis e automações eficientes. Atualmente desenvolvendo soluções que unem o poder da Engenharia de Dados (ETL/Infra) com o impacto de negócio do Business Intelligence.
 
 ---
 
-### 📊 Minha Tech Stack Principal
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Minha Tech Stack
+
+### 🧪 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ⚙️ Data Engineering & Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🤖 Projetos em Destaque (Data Analytics & Science)
+## 🚀 Projetos em Destaque
 
-**📌 [Análise de Performance Educacional (SAEB)](https://github.com/BrunaDev9/Analise-Performance-Educacional)**
-> Análise de dados educacionais brasileiros explorando correlações socioeconômicas e infraestrutura. Um projeto que reflete meu processo de aprendizado em limpeza e exploração de dados (EDA).
-> **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
+### 📚 Ecossistema Analítico ENEM 2024 (Engenharia & BI)
+* **Descrição:** Tratamento de base de dados massiva (mais de 4,3 milhões de registros) saindo do absoluto zero. Arquitetura em containers isolados e entrega de valor com Storytelling visual.
+* **Troubleshootings Superados:** Otimização de estouro de memória RAM via leitura fragmentada (*Chunks*) com Pandas, compactação colunar de alta performance com *Parquet/PyArrow* e persistência de dados em banco relacional.
+* **Tecnologias:** Python, Pandas, PyArrow, Parquet, Docker Compose, PostgreSQL, psql, Power BI.
 
-**📌 [Análise de Músicas com Python](https://github.com/BrunaDev9/analise-musicas)**
-> Extração e visualização de dados para insights no mercado musical, utilizando bibliotecas interativas.
-> **Tecnologias:** Python, Pandas, Plotly, Streamlit.
+### 📊 Análise de Performance Educacional (SAEB)
+* **Descrição:** Projeto de exploração de dados investigando a proficiência educacional pública no Brasil, explorando correlações socioeconômicas e infraestruturais através de análise exploratória (EDA) profunda.
+* **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
 
-**📌 [Agente Titan (IA)](https://github.com/BrunaDev9/agente-titan)**
-> Interface conversacional que demonstra minhas bases em lógica de programação e integração de APIs.
-> **Tecnologias:** Flask, Python.
+### 🛠️ Pipeline de Audiência Esportiva & Automação
+* **Descrição:** Desenvolvimento de pipeline para extração e processamento de dados de audiência de esportes, contando com automação para geração inteligente de relatórios e envios de e-mails.
+* **Tecnologias:** Python, Versionamento de Código, Estruturas de Automação.
 
 ---
 
-### 📈 Minha Evolução & Skills
+## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&theme=dracula&hide=html,css,javascript,procfile&locale=pt-br" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=dracula&locale=pt_BR" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&langs_count=7&theme=dark"/>
 </p>
-
-#### **Nível de Domínio (Foco atual)**
-
-**Python / Pandas**
-![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-
-**SQL**
-![Progress](https://geps.dev/progress/60?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-
-**Power BI / DAX**
-![Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 
 ---
 
-### 📫 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-veras-340583224/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadev52@gmail.com)
+## 🌐 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-veras-data/)
