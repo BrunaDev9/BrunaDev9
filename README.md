@@ -46,13 +46,20 @@ Entusiasta da cultura orientada a dados, focada em transformar volumes massivos 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&langs_count=7&theme=dark)
-
 ---
+
+## 📈 Estatísticas & Evolução
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaDev9&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+</p>
+
+### 🎯 Foco e Domínio Atual (Métricas de Frameworks)
+```text
+Python / Pandas  █████████████████████████░░░░░░░░ 75%
+SQL / Databases  ████████████████████░░░░░░░░░░░░░ 60%
+Power BI / DAX   ███████████████░░░░░░░░░░░░░░░░░ 50%
+Docker & Infra   ██████████░░░░░░░░░░░░░░░░░░░░░░ 35%
 
 ---
 
