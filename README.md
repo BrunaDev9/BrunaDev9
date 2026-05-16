@@ -44,12 +44,15 @@ Entusiasta da cultura orientada a dados, focada em transformar volumes massivos 
 
 ---
 
+---
+
 ## 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=visual-studio&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&langs_count=7&theme=visual-studio" alt="Linguagens Mais Usadas"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDev9&layout=compact&langs_count=7&theme=dark)
+
+---
 
 ---
 
