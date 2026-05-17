@@ -38,7 +38,7 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 ### 🎓 Ecossistema Analítico ENEM 2024
 > Pipeline completo do zero ao dashboard — 4,3 milhões de registros processados
 > 
-> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
+>[![GitHub](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaDev9/ENEM-2024)
 
 - Leitura fragmentada com Chunks para otimização de memória RAM.
 - Compactação colunar com Parquet/PyArrow para alta performance.
@@ -64,7 +64,7 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 ### ⚽ Pipeline de Audiência Esportiva
 > Extração, processamento e entrega automatizada de dados
 > 
-> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
+> [![GitHub](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaDev9/sports-audience-pipeline) 
 
 - Arquitetura de pipeline de dados com automação de relatórios.
 - Integração para envio automático de e-mails contendo os insights gerados.
