@@ -29,7 +29,6 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 **Engenharia & Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -38,11 +37,13 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 
 ### 🎓 Ecossistema Analítico ENEM 2024
 > Pipeline completo do zero ao dashboard — 4,3 milhões de registros processados
+> 
+> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
 
-- Leitura fragmentada com Chunks para otimização de memória RAM
-- Compactação colunar com Parquet/PyArrow para alta performance
-- Containerização com Docker Compose + persistência em PostgreSQL
-- Entrega final em Power BI com storytelling visual
+- Leitura fragmentada com Chunks para otimização de memória RAM.
+- Compactação colunar com Parquet/PyArrow para alta performance.
+- Containerização com Docker Compose + persistência em PostgreSQL.
+- Entrega final em Power BI com aplicação de storytelling visual.
 
 `Python` `Pandas` `PyArrow` `Docker` `PostgreSQL` `Power BI`
 
@@ -50,9 +51,11 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 
 ### 📉 Análise de Performance Educacional (SAEB)
 > EDA profunda sobre proficiência pública no Brasil
+> 
+> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
 
-- Correlações entre fatores socioeconômicos e desempenho escolar
-- Visualizações analíticas para comunicar padrões complexos
+- Investigação de correlações entre fatores socioeconômicos e desempenho escolar.
+- Criação de visualizações analíticas personalizadas para comunicar padrões complexos.
 
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
@@ -60,33 +63,26 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 
 ### ⚽ Pipeline de Audiência Esportiva
 > Extração, processamento e entrega automatizada de dados
+> 
+> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
 
-- Pipeline de dados com automação de relatórios
-- Envio automático de e-mails com insights gerados
+- Arquitetura de pipeline de dados com automação de relatórios.
+- Integração para envio automático de e-mails contendo os insights gerados.
 
 `Python` `Automação` `Git`
 
 ---
 
-## 📈 Evolução
+## 📈 Atividade e Evolução
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BrunaDev9&theme=tokyonight&hide_border=true&locale=pt_BR)
+<p align="left">
+  <img src="[https://streak-stats.demolab.com?user=BrunaDev9&theme=tokyonight&hide_border=true&locale=pt_BR](https://streak-stats.demolab.com?user=BrunaDev9&theme=tokyonight&hide_border=true&locale=pt_BR)" alt="GitHub Streak" height="150"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)" alt="Estatísticas GitHub" height="150"/>
+</p>
 
 ```text
-Python / Pandas  █████████████████████████░░░░░░░░ 75%
-SQL / Databases  ████████████████████░░░░░░░░░░░░░ 60%
-Power BI / DAX   ███████████████░░░░░░░░░░░░░░░░░░ 50%
-Docker & Infra   ██████████░░░░░░░░░░░░░░░░░░░░░░░ 35%
-` ``
-
----
-
-## 🤝 Vamos conversar?
-
-Aberta a oportunidades em **Análise de Dados**, **Engenharia de Dados** e **BI**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-veras-dados)
-```
-
----
-
+Foco de Estudo e Aplicação Atual:
+Python (Pandas / Data Wrangling) █████████████████████████░░░░░░░░ 75%
+SQL & Bancos de Dados (Postgres) ████████████████████░░░░░░░░░░░░░ 60%
+Power BI (DAX & Modelagem)       ███████████████░░░░░░░░░░░░░░░░░░ 50%
+Docker & Infraestrutura de Dados ██████████░░░░░░░░░░░░░░░░░░░░░░░ 35%
