@@ -1,4 +1,4 @@
-# Bruna Veras · Dados que contam histórias 📊
+# Bruna Veras · Engenharia e Inteligência de Dados orientada a resultados 📊
 
 > *"Transformo caos de dados em decisões estratégicas."*
 
@@ -73,19 +73,6 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 
 ---
 
-## 📈 Atividade e Evolução
-
-<p align="left">
-  <img src="[https://streak-stats.demolab.com?user=BrunaDev9&theme=tokyonight&hide_border=true&locale=pt_BR](https://streak-stats.demolab.com?user=BrunaDev9&theme=tokyonight&hide_border=true&locale=pt_BR)" alt="GitHub Streak" height="150"/>
-  <img src="[https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=BrunaDev9&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)" alt="Estatísticas GitHub" height="150"/>
-</p>
-
-```text
-Foco de Estudo e Aplicação Atual:
-Python (Pandas / Data Wrangling) █████████████████████████░░░░░░░░ 75%
-SQL & Bancos de Dados (Postgres) ████████████████████░░░░░░░░░░░░░ 60%
-Power BI (DAX & Modelagem)       ███████████████░░░░░░░░░░░░░░░░░░ 50%
-Docker & Infraestrutura de Dados ██████████░░░░░░░░░░░░░░░░░░░░░░░ 35%
 
 
 
