@@ -52,7 +52,7 @@ Construo pipelines robustos, dashboards que comunicam e automações que escalam
 ### 📉 Análise de Performance Educacional (SAEB)
 > EDA profunda sobre proficiência pública no Brasil
 > 
-> [📁 Código Fonte](https://github.com/BrunaDev9/seu-repositorio-aqui) <!-- Insira o link aqui -->
+> [📁 Guit](https://github.com/BrunaDev9/Analise-Performance-Educacional) <!-- Insira o link aqui -->
 
 - Investigação de correlações entre fatores socioeconômicos e desempenho escolar.
 - Criação de visualizações analíticas personalizadas para comunicar padrões complexos.
